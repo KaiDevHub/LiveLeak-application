@@ -1,6 +1,6 @@
 # liveleak
 
-A new Flutter project.
+My final year project for my bachelor's degree, facilitating easy content sharing. The app matches users based on location or shared interests, enabling interaction through multimedia content like images and videos. The goal is to boost engagement and community connections with simple interfaces and effective technology 
 
 ## Getting Started
 
