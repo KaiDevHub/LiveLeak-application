@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30865018061",
+    "project_id": "liveleak-a5d85",
+    "storage_bucket": "liveleak-a5d85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30865018061:android:1c4322d04ec1651644ad84",
+        "android_client_info": {
+          "package_name": "com.example.liveleak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30865018061-f68rsm16pcu277s2ealb2joeerp9p31e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyRQjFp6BJVHi6qC8Gcgn6U3Fs2VG42is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30865018061-f68rsm16pcu277s2ealb2joeerp9p31e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
